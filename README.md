@@ -1,6 +1,6 @@
 # Dream Premier League (DPL) Project
 
-![Cricket](cricket_image.jpg)
+![Cricket](cricket-stats.jpg)
 
 ## Project Description
 
